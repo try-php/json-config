@@ -1,0 +1,24 @@
+{
+    "name": "try/json-config",
+    "description": "Read .json files as config.",
+    "type": "library",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Willi Eßer",
+            "email": "willi.esser@troublete.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+    	"files": [
+    		"./module.php"
+    	]
+    },
+    "scripts": {
+    	"test": "@php test.php"
+    },
+    "require": {
+    	"php": ">=7.0"
+    }
+}
