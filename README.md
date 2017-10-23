@@ -2,6 +2,8 @@
 
 > Read `.json` files as config.
 
+[![Build Status](https://travis-ci.org/try-php/json-config.svg?branch=master)](https://travis-ci.org/try-php/json-config)
+
 ## Install
 
 ```bash
