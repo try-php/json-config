@@ -7,3 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ## [1.0.0] - 23.10.2017
+### [Added]
+* `jsonConfig` function and return object (class@anonymous) with a simple `get()` method as api
+* API docs
+* tests
